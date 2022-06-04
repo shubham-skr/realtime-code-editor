@@ -1,2 +1,2 @@
-# realtime-code-editor
-Realtime Javascript Code Editor
+# REALTIME JAVASCRIPT CODE EDITOR
+collaborate in sync
