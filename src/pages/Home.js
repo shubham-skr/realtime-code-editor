@@ -78,9 +78,7 @@ const Home = () => {
         </div>
       </div>
       <footer>
-        <h4>
-        💖SK💖
-        </h4>
+        <h4>💛SK💛</h4>
       </footer>
     </div>
   );
