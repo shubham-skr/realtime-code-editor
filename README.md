@@ -1,3 +1,3 @@
 # REALTIME JAVASCRIPT CODE EDITOR
 
-https://skr-realtime-code-editor.herokuapp.com/
+https://sk7-realtime-code-editor.herokuapp.com/
