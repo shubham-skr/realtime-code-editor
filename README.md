@@ -1,4 +1,4 @@
-# REALTIME JAVASCRIPT CODE EDITOR
+# REAL-TIME CODE EDITOR
 #### node.js, express.js, react.js, socket.io, codemirror
 
 <br/>
